@@ -1,1 +1,10 @@
+Here’s a step-by-step guide on how to run it:
 
+Open a terminal: If you’re using a command line interface (like Terminal on macOS/Linux or Command Prompt/PowerShell on Windows), navigate to the directory where your test.py script is located.
+
+Run the command: Replace $1 and $2 with the actual values you need. For example:
+python test.py arg1 arg2
+
+Replace arg1 and arg2 with the appropriate values. If you need to provide paths to files, make sure to include the full path or relative path to those files.
+
+Check for errors: If the script runs but doesn’t behave as expected, check the output for any error messages that might indicate what went wrong.
